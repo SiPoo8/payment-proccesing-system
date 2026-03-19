@@ -27,3 +27,18 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Compiled files
+*.class
+
+# Build tools (if you add Maven/Gradle later)
+target/
+build/
+
+# Logs
+*.log
